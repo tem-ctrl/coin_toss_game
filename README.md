@@ -7,8 +7,8 @@ In this project, I will show how to implement a simple coin toss game in python.
 
 This game is played by a single user against the computer. The player predicts the outcome of three consecutive coin tosses, for example **THH** where **H** stands for **heads** and **T** satands for **tails**. Behind the scenes, the computer makes its own prediction based on that of the user. The coin is then flipped until the last three consecutive coin tosses match either predictions. The player wins in the case his/her prediction is the one obtained, otherwise the computer wins. In either case, the player is given the chance to retry.
 
-The `main.ypinb` contains the code for the game.
-
+The `main.ypinb` contains the code for the game. <br>
+More explanations can be found on [my blog here](https://www.datainsightonline.com/post/simple-apps-with-python-coin-toss-game)
 
 ## Game extension
 Question: Alice and Bob are playing a game. They start by each writing down a prediction of the outcome of three consecutive coin tosses; for example, Alice might write down **(T, H, H)** and Bob might write down **(H, T, H)**. They then continue flipping a coin until the last three consecutive coin tosses match either of their predictions, and the matching prediction is the winner. <br>
