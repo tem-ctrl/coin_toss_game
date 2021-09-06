@@ -1,6 +1,6 @@
 # coin_toss_game
  
-[coin_toss_image](coin_toss.jpg)
+![coin_toss_image](coin_toss.jpg) <br>
 In this project, I will show how to implement a simple coin toss game in python.
 
 ## Game rules
